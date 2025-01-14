@@ -12,7 +12,7 @@ Fork from [bissolli/nova-phone-field](https://github.com/bissolli/nova-phone-fie
 ## Requirements
 
 - PHP **8.0+**
-- Laravel Nova **4.0+**
+- Laravel Nova **5.0+**
 - Laravel Framework **8.0+**
 
 **NOTE**: For Laravel version < 8.0 or Nova < 4 use [bissolli/nova-phone-field](https://github.com/bissolli/nova-phone-field).
